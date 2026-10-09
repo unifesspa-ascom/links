@@ -1,0 +1,11 @@
+{
+ "titulo": "Unifesspa",
+ "descricao": "Universidade Federal do Sul e Sudeste do Pará. Aqui você encontra os principais links da universidade.",
+ "itens": [
+  {"titulo": "Site oficial da Unifesspa", "url": "https://unifesspa.edu.br/", "destaque": true},
+  {"titulo": "SIGAA, sistema acadêmico", "url": "https://sigaa.unifesspa.edu.br/"},
+  {"titulo": "Banco de fontes para a imprensa", "url": "https://unifesspa-ascom.github.io/fontes/"},
+  {"secao": "Redes sociais"},
+  {"titulo": "Instagram @unifesspa", "url": "https://www.instagram.com/unifesspa/"}
+ ]
+}
